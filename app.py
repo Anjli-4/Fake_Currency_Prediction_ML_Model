@@ -67,4 +67,4 @@ else:
     place.empty()
     st.warning(body)
     progress_bar = st.progress(0)
-st.markdown(**Designed by Anjali**)
+st.markdown('Designed by: **Anjali**')
